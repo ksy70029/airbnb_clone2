@@ -1,5 +1,5 @@
 """
-ASGI config for airbnb_clone project.
+ASGI airbnb_clone for airbnb_clone project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

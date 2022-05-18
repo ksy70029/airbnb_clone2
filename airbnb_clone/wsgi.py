@@ -1,5 +1,5 @@
 """
-WSGI config for airbnb_clone project.
+WSGI airbnb_clone for airbnb_clone project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
